@@ -1,0 +1,10 @@
+body{
+    background-color: aquamarine;
+    margin-left: 22%;
+    margin-right: 22%;
+}
+.top{
+    width: 100%;
+    border: 2px solid greenyellow;
+    background-color: greenyellow;
+}
